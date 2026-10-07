@@ -1,0 +1,6 @@
+{
+  "name": "Best Price Supermarket - Digital Product Catalogue",
+  "description": "Explore everyday groceries, daily staples, personal care, and weekly offers at Best Price Supermarket in Racherla, Prakasam District, Andhra Pradesh. Shop More • Save More.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
